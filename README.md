@@ -1,2 +1,2 @@
-# RternativesInPowerBI
-R-ternatives in Power BI
+# R-Ternatives in Power BI
+Complete documentation coming soon...
